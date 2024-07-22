@@ -4,6 +4,12 @@
 
 2. Run `./v2m.py video.mp4` <https://github.com/svsdval/video2midi>
 
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+```
+
 3. Adjust piano keys, start and end, channels (save settings)
 
 4. Generate midi
